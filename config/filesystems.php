@@ -27,7 +27,7 @@ return [
     | Supported Drivers: "local", "ftp", "sftp", "s3"
     |
     */
-
+    // TODO fix file path for thumbnails
     'disks' => [
 
         'local' => [
